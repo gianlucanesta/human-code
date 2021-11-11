@@ -1,4 +1,20 @@
-Nel frigo si inizia a sentire l’eco, perciò è ora di fare rifornimenti!
-Visto che dimentico sempre qualcosa, decido di appuntarmi tutto ciò che manca in una lista, così una volta al supermercato, girando tra gli scaffali, posso verificare di aver preso tutto e Ricky non rimane senza crocchette come l’ultima volta, povero! Devo ricordarmi di usare il coupon che scade a fine mese, per il resto dovrebbero bastarmi i contanti che ho in portafogli, sempre se non mi faccio prendere la mano con gli snack extra! 
+ESERCIZIO 1
 
+1. Creo una lista della spesa          
+
+2.  Per ogni elemento della lista
+        a.  Cerco elemento
+        b.  SE (è disponibile E non l'ho preso)
+                prendo il prodotto
+        c.  ALTRIMENTI
+                prodotto successivo
+
+3. Vado alla cassa per pagare
+
+4.  SE il coupon non è scaduto 
+    a.  ALLORA Uso il coupon
+
+5.  SE i contanti bastano 
+    a.  ALLORA pago con i contanti
+    b.  ALTRIMENTI lascio alla cassa gli extra
 
